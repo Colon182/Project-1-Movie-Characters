@@ -5,4 +5,4 @@ Our appilcation Movie Informer is a movie search database that allows users to r
 
 
 ## Screenshot
-![](images/MovieCharacters.png)
+![Movie Characters screenshot](Assets/images/MovieCharacters.png)
